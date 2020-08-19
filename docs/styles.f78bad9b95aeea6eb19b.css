@@ -1,0 +1,1 @@
+.loader{height:100px;width:20%;text-align:center;padding:1em;margin:0 auto 1em;display:inline-block;vertical-align:top}svg path,svg rect{fill:#ff6700}.animated{animation-duration:.9s;animation-fill-mode:both}@media (prefers-reduced-motion){.animated{animation:unset!important;transition:none!important}}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}.fadeIn{animation-name:fadeIn}
